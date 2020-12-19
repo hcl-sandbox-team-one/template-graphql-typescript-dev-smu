@@ -45,6 +45,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: inventory-svc-smu-cx72p
 
 runtime: nodejs
